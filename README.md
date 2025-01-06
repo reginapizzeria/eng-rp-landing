@@ -1,2 +1,3 @@
 # Landing Page
-Landing reginapizzeria.cl
+
+Landing de [Regina Pizzeria](https://reginapizzeria.cl)
