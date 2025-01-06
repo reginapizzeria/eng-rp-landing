@@ -1,2 +1,2 @@
-# eng-reginapizzeria-front
-Front reginapizzeria.cl
+# Landing Page
+Landing reginapizzeria.cl
